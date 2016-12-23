@@ -1,0 +1,11 @@
+# Message sent to player if he cannot use the command.
+no-permission: '&4You do not have permission to perform this command.'
+
+# List of blocked commands, by default it blocks all commands that give players your plugin list.
+commands:
+- '/?'
+- '/pl'
+- '/plugins'
+- '/ver'
+- '/version'
+- '/bukkit:'
